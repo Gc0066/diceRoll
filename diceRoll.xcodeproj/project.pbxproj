@@ -90,6 +90,9 @@
 		5EEFE247216F402E00D6B571 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				KnownAssetTags = (
+					label,
+				);
 				LastSwiftUpdateCheck = 1000;
 				LastUpgradeCheck = 1000;
 				ORGANIZATIONNAME = "George Coleman";
