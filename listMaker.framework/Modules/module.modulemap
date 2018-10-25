@@ -1,0 +1,11 @@
+framework module listMaker {
+  umbrella header "listMaker.h"
+
+  export *
+  module * { export * }
+}
+
+module listMaker.Swift {
+    header "listMaker-Swift.h"
+    requires objc
+}
